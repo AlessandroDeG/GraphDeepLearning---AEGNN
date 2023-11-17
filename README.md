@@ -1,4 +1,4 @@
-# GraphDeepLearning---AEGNN
+# GraphDeepLearning-AEGNN
 
 Replication study of a very interesting paper:
 
